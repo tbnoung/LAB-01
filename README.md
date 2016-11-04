@@ -47,9 +47,14 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 5 กดปุ่ม Ctrl+F5 เพื่อดูผลการทำงานของโปรแกรม
 
 ## บันทึกผลการทดลอง
-
- [ให้สรุปผลการทดลอง แล้ว commit changes จากนั้นให้ส่งไปที่ edmodo]
- เหตุผลที่ต้องแจ้ง เพราะส่วนใหญ่ไม่ได้ใช้ชื่อจริง + รหัสนักศึกษา ในการสมัคร github
+###เมื่อทำการเขียโค๊ดตามการทดลอง
+![](https://github.com/tbnoung/LAB-01/blob/master/11.PNG)
+###จะได้ผลการทดลองดังนี้
+![](https://github.com/tbnoung/LAB-01/blob/master/12.PNG)
+###เมื่อลองเปลี่ยนการเเสดงผลจาก MB_OK เป็นรูปแบบอื่นเช่น MB_OKCANCEL
+![](https://github.com/tbnoung/LAB-01/blob/master/13.PNG)
+###ผลที่ได้จะเป็นดังนี้
+![](https://github.com/tbnoung/LAB-01/blob/master/14.PNG)
 
 ## คำถาม 
 1. นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
